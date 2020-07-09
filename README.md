@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I'm a back-end developer. At the moment I'm working with microservices using the following stack: Node.js, Typescript, Nest.js, Express, Docker and Kubernetes.
+
+I'm currently studying AWS and Golang.
+
+My interests right now are basically cloud computing and distributed systems.
+
+I have plans to study computer vision and machine learning in a not so distant future.
+
+I guess that's it for now! 😋
