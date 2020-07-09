@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a back-end developer. At the moment I'm working with microservices using the following stack: Node.js, Typescript, Nest.js, Express, Docker and Kubernetes.
+I'm a back-end developer and a undergraduate Computer Science student. At the moment I'm working with microservices using the following stack: Node.js, Typescript, Nest.js, Express, Docker and Kubernetes.
 
 I'm currently studying AWS and Golang.
 
