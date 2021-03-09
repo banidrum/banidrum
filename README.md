@@ -24,3 +24,7 @@ My interests right now are basically cloud computing and distributed systems.
 I have plans to study computer vision and machine learning in a not so distant future.
 
 I guess that's it for now! 😋
+
+### Get in touch
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/daniel-kbrum/?locale=en_US)
