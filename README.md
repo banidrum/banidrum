@@ -23,6 +23,8 @@ My interests right now are basically cloud computing and distributed systems.
 
 I have plans to study computer vision and machine learning in a not so distant future.
 
+I write some things on [dev.to](https://dev.to/banidrum)
+
 I guess that's it for now! 😋
 
 ### Get in touch
