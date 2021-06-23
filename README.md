@@ -19,7 +19,7 @@ I'm a back-end developer and an undergraduate Computer Science student. At the m
 
 I'm currently studying AWS and Golang.
 
-My interests right now are basically cloud computing and distributed systems.
+My interests right now are cloud computing and distributed systems.
 
 I write some things on [dev.to](https://dev.to/banidrum)
 
