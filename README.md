@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a back-end developer and an undergraduate Computer Science student. At the moment I'm working with microservices using the following stack: Node.js, Typescript, Nest.js, Express, Docker and Kubernetes.
+I'm a back-end developer and an undergraduate Computer Science student. At the moment I'm working with microservices using the following stack: Node.js, Typescript, Nest.js, Express, Docker and Kubernetes. 
 
-I'm currently studying AWS and Golang.
+I'm currently studying AWS and Golang. I have a growing interest in platform engineering and infrastructure. 
 
 My interests right now are cloud computing and distributed systems.
 
 I write some things on [dev.to](https://dev.to/banidrum)
-
-I guess that's it for now! 😋
 
 ### Get in touch
 
