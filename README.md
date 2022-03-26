@@ -15,11 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a back-end developer and an undergraduate Computer Science student. At the moment I'm working with microservices using the following stack: Node.js, Typescript, Nest.js, Express, Docker and Kubernetes. 
+I'm a back-end developer and an undergraduate Computer Science student.
 
-I'm currently studying AWS and Golang. I have a growing interest in platform engineering and infrastructure. 
+I have experience with the following languages and tools:
 
-My interests right now are cloud computing and distributed systems.
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+I'm currently focusing my studies on software testing and on Node.js.
+
+My interests are cloud computing, distributed systems and software architecture. I also have a growing interest in platform engineering and infrastructure. 
 
 I write some things on [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/banidrum)
 
