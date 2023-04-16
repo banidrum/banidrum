@@ -29,7 +29,7 @@ I have experience with the following languages and tools:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-I'm currently focusing my studies on software testing and on Node.js.
+I'm currently focusing my studies on software testing, Java and on Node.js.
 
 My interests are cloud computing, distributed systems, programming languages and software architecture. I also have a growing interest in platform engineering and infrastructure. 
 
