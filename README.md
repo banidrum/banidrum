@@ -31,9 +31,9 @@ I have experience with the following languages and tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
-I'm currently focusing my studies on software testing, Java and on Node.js.
+I'm focusing my studies on software testing, Java, and Spring Boot.
 
-My interests are cloud computing, distributed systems, programming languages and software architecture. I also have a growing interest in platform engineering and infrastructure. 
+My interests are cloud computing, distributed systems, programming languages, and software architecture. I also have a growing interest in platform engineering and infrastructure. 
 
 I write some things on [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/banidrum)
 
