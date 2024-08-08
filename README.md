@@ -35,8 +35,6 @@ I'm focusing my studies on software testing, Java, and Spring Boot.
 
 My interests are cloud computing, distributed systems, programming languages, and software architecture. I also have a growing interest in platform engineering and infrastructure. 
 
-I write some things on [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/banidrum)
-
 ### Get in touch
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kbrum/?locale=en_US)
