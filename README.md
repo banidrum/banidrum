@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a back-end developer and an undergraduate Computer Science student.
+I'm a software engineer, focused on back-end development.
 
 I have experience with the following languages and tools:
 
